@@ -47,4 +47,4 @@ For beginners learning web development, this codebase is structured to showcase 
 - **JavaScript Evaluation:** Safely parses multi-step arithmetic using encapsulated, scoped closures without exposing raw global evaluation risks.
 
 ---
-
+Screenshot is added.
